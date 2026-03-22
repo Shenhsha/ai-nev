@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>🌸 AI 导航</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌸</text></svg>">
+</head>
+<body>
+
+  <canvas id="sakura-canvas"></canvas>
+
+  <div class="container">
+    <header>
+      <h1>🌸 AI <span>导航</span></h1>
+      <p>收录主流 AI 大模型，一站直达</p>
+
+      <div class="search-wrap">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"
+             stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/>
+        </svg>
+        <input type="text" id="search" placeholder="搜索工具名称或描述…" autocomplete="off">
+      </div>
+
+      <div class="filters" id="filters"></div>
+    </header>
+
+    <main class="cards-grid" id="cards-grid"></main>
+  </div>
+
+  <footer>
+    <p>AI 导航 · 自用收藏 · 数据仅供参考</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,162 @@
+[
+  {
+    "name": "ChatGPT",
+    "desc": "OpenAI 旗下对话式 AI，支持文本、图像、语音多模态交互",
+    "url": "https://chat.openai.com",
+    "env": "abroad",
+    "pricing": "freemium",
+    "category": "chat"
+  },
+  {
+    "name": "Claude",
+    "desc": "Anthropic 出品，擅长长文本分析、写作与编程",
+    "url": "https://claude.ai",
+    "env": "abroad",
+    "pricing": "freemium",
+    "category": "chat"
+  },
+  {
+    "name": "Gemini",
+    "desc": "Google 多模态大模型，深度整合 Google 生态",
+    "url": "https://gemini.google.com",
+    "env": "abroad",
+    "pricing": "freemium",
+    "category": "chat"
+  },
+  {
+    "name": "Grok",
+    "desc": "xAI 推出的实时对话 AI，接入 X 平台数据",
+    "url": "https://grok.com",
+    "env": "us",
+    "pricing": "freemium",
+    "category": "chat"
+  },
+  {
+    "name": "Kimi",
+    "desc": "月之暗面出品，超长上下文理解，擅长文档分析",
+    "url": "https://kimi.moonshot.cn",
+    "env": "domestic",
+    "pricing": "freemium",
+    "category": "chat"
+  },
+  {
+    "name": "通义千问",
+    "desc": "阿里巴巴自研大模型，支持多轮对话与文档处理",
+    "url": "https://tongyi.aliyun.com",
+    "env": "domestic",
+    "pricing": "freemium",
+    "category": "chat"
+  },
+  {
+    "name": "豆包",
+    "desc": "字节跳动旗下 AI 助手，集成多场景智能应用",
+    "url": "https://www.doubao.com",
+    "env": "domestic",
+    "pricing": "freemium",
+    "category": "chat"
+  },
+  {
+    "name": "文心一言",
+    "desc": "百度自研大语言模型，中文理解能力出色",
+    "url": "https://yiyan.baidu.com",
+    "env": "domestic",
+    "pricing": "freemium",
+    "category": "chat"
+  },
+  {
+    "name": "DeepSeek",
+    "desc": "深度求索出品，开源高性能推理模型",
+    "url": "https://chat.deepseek.com",
+    "env": "domestic",
+    "pricing": "freemium",
+    "category": "chat"
+  },
+  {
+    "name": "Midjourney",
+    "desc": "顶级 AI 绘画工具，通过 Discord 使用，画质惊艳",
+    "url": "https://www.midjourney.com",
+    "env": "abroad",
+    "pricing": "paid",
+    "category": "image"
+  },
+  {
+    "name": "DALL·E",
+    "desc": "OpenAI 图像生成模型，支持文字描述生成高质量图片",
+    "url": "https://openai.com/dall-e",
+    "env": "abroad",
+    "pricing": "paid",
+    "category": "image"
+  },
+  {
+    "name": "Stable Diffusion",
+    "desc": "开源图像生成模型，可本地部署，社区生态丰富",
+    "url": "https://stability.ai",
+    "env": "domestic",
+    "pricing": "free",
+    "category": "image"
+  },
+  {
+    "name": "通义万相",
+    "desc": "阿里云 AI 图像生成，支持文生图、图生图",
+    "url": "https://wanx.aliyun.com",
+    "env": "domestic",
+    "pricing": "freemium",
+    "category": "image"
+  },
+  {
+    "name": "文心一格",
+    "desc": "百度 AI 绘画工具，支持多种风格与尺寸",
+    "url": "https://yige.baidu.com",
+    "env": "domestic",
+    "pricing": "freemium",
+    "category": "image"
+  },
+  {
+    "name": "GitHub Copilot",
+    "desc": "GitHub 智能编程助手，支持主流 IDE，代码补全精准",
+    "url": "https://github.com/features/copilot",
+    "env": "abroad",
+    "pricing": "paid",
+    "category": "code"
+  },
+  {
+    "name": "Cursor",
+    "desc": "AI 原生代码编辑器，内置 GPT-4 驱动的智能编码",
+    "url": "https://cursor.sh",
+    "env": "abroad",
+    "pricing": "freemium",
+    "category": "code"
+  },
+  {
+    "name": "通义灵码",
+    "desc": "阿里云 AI 编程助手，支持代码补全与自然语言生成代码",
+    "url": "https://tongyi.aliyun.com/lingma",
+    "env": "domestic",
+    "pricing": "freemium",
+    "category": "code"
+  },
+  {
+    "name": "Sora",
+    "desc": "OpenAI 视频生成模型，文字描述即可生成高质量视频",
+    "url": "https://sora.com",
+    "env": "abroad",
+    "pricing": "paid",
+    "category": "video"
+  },
+  {
+    "name": "可灵 AI",
+    "desc": "快手自研视频生成模型，支持图生视频、文生视频",
+    "url": "https://klingai.kuaishou.com",
+    "env": "domestic",
+    "pricing": "freemium",
+    "category": "video"
+  },
+  {
+    "name": "Runway",
+    "desc": "专业 AI 视频编辑与生成平台，Gen-3 模型效果出色",
+    "url": "https://runwayml.com",
+    "env": "abroad",
+    "pricing": "freemium",
+    "category": "video"
+  }
+]
